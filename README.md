@@ -16,4 +16,5 @@ IDA FLIRT Signature Database
 TODO : ubuntu categorization into os version -> into libc version 
 
 I encountered error in making signature with pelf (Unknown relocation type), so couldn't make pat file.
+
 If you know solution for this problem, contact me and reflect it to these.
