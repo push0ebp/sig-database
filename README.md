@@ -12,3 +12,5 @@ IDA FLIRT Signature Database
     * OpenSSL
       * 0.9.8
       * 1.0.2
+
+TODO : ubuntu categorization into os version -> into libc version 
