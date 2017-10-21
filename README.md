@@ -18,3 +18,7 @@ TODO : ubuntu categorization into os version -> into libc version
 I encountered error in making signature on other architectures (mips, powerpc) with pelf (Unknown relocation type), so couldn't make pat file.
 
 If you know solution for this problem, contact me and reflect it to these.
+
+#To be updated
+please suggest mirrors me.
+I am finding efficeint mirrors to update these.
