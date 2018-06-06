@@ -1,0 +1,12 @@
++TLSv1_method                                      	12 DB26 9421FFF03C60....3863....382100104E800020600000006000000060000000
+TLSv1_server_method                               	12 DB26 9421FFF03C60....3863....382100104E800020600000006000000060000000
+TLSv1_client_method                               	12 DB26 9421FFF03C60....3863....382100104E800020600000006000000060000000
+;--------- (delete these lines to allow sigmake to read this file)
+; add '+' at the start of a line to select a module
+; add '-' if you are not sure about the selection
+; do nothing if you want to exclude all modules
+
+;SSLv3_method (/tmp/tmpc8obyxqd/libssl.pat)
+;SSLv3_method (/tmp/tmpc8obyxqd/libssl.pat)
+SSLv3_method                                      	12 F16E 9421FFF03C60....3863....382100104E800020600000006000000060000000
+ssl3_get_method                                   	12 F16E 9421FFF03C60....3863....382100104E800020600000006000000060000000
