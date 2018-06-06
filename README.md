@@ -7,7 +7,7 @@ GitHub - push0ebp/ALLirt - [https://github.com/push0ebp/ALLirt](https://github.c
 
 ### Sig List
 
-* Ubuntu
+* Ubuntu `libc6` `OpenSSL`
   * 4.10 (warty)
   * 5.04 (hoary)
   * 5.10 (breezy)
