@@ -49,5 +49,13 @@ I encountered error in making signature on other architectures (mips, powerpc) w
 If you know solution for this problem, contact me and reflect it to these.
 
 I used `launchpad.net`
-please suggest mirrors me.
+please suggest me mirrors.
+
+
+when I use `pelf` to make a sig (libc 2.27 latest), it caused error,
+```
+Fatal [/private/tmp/usr/lib/x86_64-linux-gnu/libc.a] (init-first.o): Unknown relocation type 42 (offset in section=0x3).
+```
+`-r` option not worked
+you know solution?, please write issue. and commit this repository
 
