@@ -35,6 +35,7 @@ GitHub - push0ebp/ALLirt - [https://github.com/push0ebp/ALLirt](https://github.c
   * 17.04 (zesty)
   * 17.10 (artful)
   * 18.04 (bionic)
+  * 18.10 (cosmic)
 
 * Windows
     * VC12 - libcmt
@@ -52,10 +53,14 @@ I used `launchpad.net`
 please suggest me mirrors.
 
 
-when I use `pelf` to make a sig (libc 2.27 latest), it caused error,
+when I use `pelf` to make a sig (libc 2.27 latest)
 ```
 Fatal [/private/tmp/usr/lib/x86_64-linux-gnu/libc.a] (init-first.o): Unknown relocation type 42 (offset in section=0x3).
 ```
-`-r` option not worked
-you know solution?, please write issue. and commit this repository
+
+I am looking for `pelf.rtb` new(7.1) version to make sig of `libc 2.27 amd64`. `push0ebp@gmail.com` 
+
+Thank you
+
+
 
