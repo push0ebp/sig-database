@@ -43,24 +43,10 @@ GitHub - push0ebp/ALLirt - [https://github.com/push0ebp/ALLirt](https://github.c
       * 0.9.8
       * 1.0.2
 
-TODO : commit static libraries. please wait.
-
-I encountered error in making signature on other architectures (mips, powerpc) with pelf (Unknown relocation type), so couldn't make pat file.
-
-If you know solution for this problem, contact me and reflect it to these.
-
 I used `launchpad.net`
 please suggest me mirrors.
 
-
-when I use `pelf` to make a sig (libc 2.27 latest)
-```
-Fatal [/private/tmp/usr/lib/x86_64-linux-gnu/libc.a] (init-first.o): Unknown relocation type 42 (offset in section=0x3).
-```
-
-I am looking for `pelf.rtb` new(7.1) version to make sig of `libc 2.27 amd64`. `push0ebp@gmail.com` 
-
-Thank you
+Thank you @HexRabbit
 
 
 
